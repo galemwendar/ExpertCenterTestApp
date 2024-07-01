@@ -1,0 +1,6 @@
+@ExpertCenterTestApp.Server_HostAddress = http://localhost:5042
+
+GET {{ExpertCenterTestApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
